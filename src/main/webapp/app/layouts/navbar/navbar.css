@@ -3,11 +3,11 @@ Navbar
 ========================================================================== */
 .navbar-version {
     font-size: 10px;
-    color: #ccc
+    color: #000000
 }
 
 .jh-navbar {
-    background-color: #353d47;
+    background-color: #74b2fd;
     padding: .2em 1em;
 }
 
